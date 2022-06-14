@@ -1,5 +1,8 @@
 {
+	"author": "WeePeD",
 	"name": "fcc-learn-npm-package-json",
+	"description": "This is the project that i used to learn new stuff about BE software and NodeJS",
+	"keywords": ["freecodecamp","learningnewstuff","NodeJS"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
